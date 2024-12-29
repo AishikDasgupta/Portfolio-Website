@@ -49,7 +49,7 @@ export const projects: Project[] = [
   {
     id: "6",
     title: "ATS-Simulator",
-    description: "Python-based Applicant Tracking System (ATS) simulator. It allows users to experience the hiring process from the candidate perspective, simulating application submissions, interview scheduling, and offer negotiations.",
+    description: "Python-based Applicant Tracking System simulator. It allows users to experience the hiring process from the candidate perspective, simulating application submissions, interviews & scheduling.",
     image: "https://media.istockphoto.com/id/2016578758/photo/wireless-mouse-and-wooden-stick-with-the-word-applicant-tracking-system.jpg?s=1024x1024&w=is&k=20&c=KLMyKeXcuBN5uHur_XDw41JSBUrH_z_YtJjm8EZ9UWE=",
     tags: ["HTML" ,"Javascript", "Vanilla CSS", "Python","Streamlit","Spacy","PyPDF2"],
     demoUrl: "https://github.com/AishikDasgupta/SimRecruit",
