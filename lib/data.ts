@@ -28,6 +28,33 @@ export const projects: Project[] = [
     demoUrl: "https://hustlemania.netlify.app/",
     githubUrl: "https://github.com/AishikDasgupta/hustlemania_fitness_studio"
   },
+  {
+    id: "4",
+    title: "Animation Track",
+    description: "A minimalist image carousel built with HTML5, CSS3, and JavaScript.It features a smooth animation effect and is fully responsive.",
+    image: "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    tags: ["HTML" ,"Javascript", "Vanilla CSS"],
+    demoUrl: "https://github.com/AishikDasgupta/Animation-Track",
+    githubUrl: "https://github.com/AishikDasgupta/Animation-Track"
+  },
+  {
+    id: "5",
+    title: "Menu-Animations",
+    description: "A sleek and smooth animated menu for websites, featuring responsive design, fluid hover effects, and modern aesthetic transitions, perfect for enhancing user interaction and visual appeal.",
+    image: "https://images.pexels.com/photos/29308673/pexels-photo-29308673/free-photo-of-smartphone-screen-with-app-interface-in-focus.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    tags: ["HTML" ,"Javascript", "Vanilla CSS"],
+    demoUrl: "https://github.com/AishikDasgupta/Menu-Animations",
+    githubUrl: "https://github.com/AishikDasgupta/Menu-Animations"
+  },
+  {
+    id: "6",
+    title: "ATS-Simulator",
+    description: "Python-based Applicant Tracking System (ATS) simulator. It allows users to experience the hiring process from the candidate perspective, simulating application submissions, interview scheduling, and offer negotiations.",
+    image: "https://media.istockphoto.com/id/2016578758/photo/wireless-mouse-and-wooden-stick-with-the-word-applicant-tracking-system.jpg?s=1024x1024&w=is&k=20&c=KLMyKeXcuBN5uHur_XDw41JSBUrH_z_YtJjm8EZ9UWE=",
+    tags: ["HTML" ,"Javascript", "Vanilla CSS", "Python","Streamlit","Spacy","PyPDF2"],
+    demoUrl: "https://github.com/AishikDasgupta/SimRecruit",
+    githubUrl: "https://github.com/AishikDasgupta/SimRecruit"
+  },
   // Add more projects...
 ]
 
