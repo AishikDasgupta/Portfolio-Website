@@ -16,7 +16,7 @@ export function Footer() {
           <div className="text-center md:text-left">
             <h2 className="text-2xl font-semibold">Aishik Dasgupta</h2>
             <p className="text-sm text-gray-400 mt-2">
-              &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+              &copy; {new Date().getFullYear()} Aishik Dasgupta. All rights reserved.
             </p>
           </div>
 
@@ -63,13 +63,13 @@ export function Footer() {
               </svg>
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/AishikDasgupta"
               className="text-gray-400 hover:text-primary transition"
               target="_blank"
               rel="noopener noreferrer"
             >
               <svg
-                xmlns="https://lucide.dev/icons/github"
+                xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth={2}
@@ -84,13 +84,13 @@ export function Footer() {
               </svg>
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/aishik-dasgupta/"
               className="text-gray-400 hover:text-primary transition"
               target="_blank"
               rel="noopener noreferrer"
             >
               <svg
-                xmlns="https://lucide.dev/icons/github"
+                xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
                 strokeWidth={2}
