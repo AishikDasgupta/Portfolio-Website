@@ -55,6 +55,15 @@ export const projects: Project[] = [
     demoUrl: "https://github.com/AishikDasgupta/SimRecruit",
     githubUrl: "https://github.com/AishikDasgupta/SimRecruit"
   },
+  {
+    id: "7",
+    title: "School Management System",
+    description: "A comprehensive platform designed to streamline administrative tasks, enhance communication, and improve the overall educational experience for students, teachers, and parents.",
+    image: "https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    tags: ["Next.js" ,"Typescript", "Tailwind CSS", "Postgres SQL","Prisma","React"],
+    demoUrl: "https://github.com/AishikDasgupta/school-managment-system",
+    githubUrl: "https://github.com/AishikDasgupta/school-managment-system"
+  },
   // Add more projects...
 ]
 
