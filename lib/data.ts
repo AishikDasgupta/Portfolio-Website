@@ -108,6 +108,12 @@ export const skills: Skill[] = [
     icon: "docker",
     level: 70
   },
+  {
+    name: "Postgres",
+    icon: "postgres",
+    level: 60
+  },
+
   // Add more skills...
 ]
 
